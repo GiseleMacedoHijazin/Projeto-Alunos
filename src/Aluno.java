@@ -1,3 +1,4 @@
+package src;
 public class Aluno implements Comparable<Aluno> {
     private String nome;
     private int idade;

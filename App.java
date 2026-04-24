@@ -6,7 +6,7 @@ public class App {
 
         ArrayList<Aluno> alunos = new ArrayList<>();
 
-        // Inserção automática (mínimo 10 alunos)
+        // Inserção automática (10 alunos)
         alunos.add(new Aluno("Ana", 20, 8.5));
         alunos.add(new Aluno("Carlos", 22, 7.2));
         alunos.add(new Aluno("Bruna", 19, 9.1));
